@@ -6,7 +6,7 @@ ext {
 
     publishedGroupId = 'com.my.helloworld'
     libraryName = 'MyHelloWorld'
-    artifact = 'my-helloworld'
+    artifact = 'myhelloworld-lib'
 
     libraryDescription = 'My Hello World'
 

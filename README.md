@@ -1,5 +1,5 @@
 # my-helloworld
 
 dependencies {
-	compile 'com.my.helloworld:my-helloworld:1.0'
+	compile 'com.my.helloworld:myhelloworld-lib:1.0'
 }
